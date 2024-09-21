@@ -21,7 +21,6 @@
    
 	   <div>
 	   		${result }
-	   		<p>${result[0].memberId }</p>
 	   </div>
    </body>
 </html>
