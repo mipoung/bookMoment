@@ -17,7 +17,7 @@
       <![endif]-->
    </head>
    <body>
- 메인 페이지 입니다.
+ 	testtestsfs
    
 	   <div>
 	   		${result }
